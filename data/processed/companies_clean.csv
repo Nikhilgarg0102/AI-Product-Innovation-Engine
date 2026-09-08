@@ -1,0 +1,11 @@
+company_id,company_name,industry,country,target_market,company_size
+C001,Titan,Consumer Electronics,India,Global,Enterprise
+C002,NovaTech,Consumer Electronics,India,India,Large
+C003,ApexWear,Wearables,Usa,Global,Enterprise
+C004,GreenHome,Home Appliances,Germany,Europe,Large
+C005,UrbanGear,Consumer Products,Uk,Global,Medium
+C006,TechSphere,Consumer Electronics,Japan,Asia,Enterprise
+C007,NextGen Labs,Technology,India,Global,Medium
+C008,PrimeLiving,Home Products,Canada,North America,Large
+C009,VisionWorks,Consumer Electronics,South Korea,Global,Enterprise
+C010,FutureEdge,Technology,Singapore,Asia,Medium

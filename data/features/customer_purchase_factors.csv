@@ -1,0 +1,35 @@
+customer_segment,purchase_factor,request_count
+Frequent Buyer,Brand reputation,865
+Frequent Buyer,Features,864
+Frequent Buyer,Performance,851
+Frequent Buyer,Customer reviews,850
+Frequent Buyer,Durability,847
+Frequent Buyer,Quality,838
+Frequent Buyer,Price,832
+Frequent Buyer,Design,821
+High Value,Quality,1786
+High Value,Customer reviews,1761
+High Value,Durability,1743
+High Value,Performance,1723
+High Value,Brand reputation,1696
+High Value,Features,1683
+High Value,Design,1678
+High Value,Price,1661
+Inactive,Brand reputation,1
+Inactive,Quality,1
+Premium Loyal,Features,436
+Premium Loyal,Customer reviews,431
+Premium Loyal,Brand reputation,426
+Premium Loyal,Design,422
+Premium Loyal,Quality,408
+Premium Loyal,Price,407
+Premium Loyal,Performance,403
+Premium Loyal,Durability,393
+Regular Buyer,Durability,826
+Regular Buyer,Brand reputation,802
+Regular Buyer,Quality,779
+Regular Buyer,Price,763
+Regular Buyer,Customer reviews,762
+Regular Buyer,Design,756
+Regular Buyer,Performance,743
+Regular Buyer,Features,742

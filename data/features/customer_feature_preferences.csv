@@ -1,0 +1,35 @@
+customer_segment,preferred_feature,request_count,preference_percentage
+Frequent Buyer,Better performance,888,13.120567375886525
+Frequent Buyer,Better design,875,12.928486997635936
+Frequent Buyer,Better software,872,12.884160756501181
+Frequent Buyer,Improved durability,859,12.692080378250592
+Frequent Buyer,Improved comfort,850,12.559101654846335
+Frequent Buyer,Lower price,828,12.23404255319149
+Frequent Buyer,Longer battery life,800,11.82033096926714
+Frequent Buyer,More smart features,796,11.761229314420804
+High Value,Longer battery life,1776,12.934236399388247
+High Value,Improved durability,1753,12.766732211783555
+High Value,Improved comfort,1736,12.642924768771394
+High Value,More smart features,1735,12.635641978005971
+High Value,Better design,1704,12.409875464277912
+High Value,Better software,1688,12.29335081203117
+High Value,Better performance,1671,12.169543369019008
+High Value,Lower price,1668,12.147694996722743
+Inactive,Improved durability,1,50.0
+Inactive,Lower price,1,50.0
+Premium Loyal,Longer battery life,441,13.259170174383645
+Premium Loyal,Lower price,441,13.259170174383645
+Premium Loyal,Better performance,434,13.048707155742633
+Premium Loyal,Improved durability,411,12.357185808779313
+Premium Loyal,Improved comfort,410,12.32711966325917
+Premium Loyal,More smart features,401,12.056524353577872
+Premium Loyal,Better software,400,12.026458208057727
+Premium Loyal,Better design,388,11.665664461815997
+Regular Buyer,Better software,809,13.105459258059291
+Regular Buyer,Improved durability,795,12.87866515470598
+Regular Buyer,Better design,775,12.55467357848696
+Regular Buyer,Better performance,766,12.408877369188401
+Regular Buyer,More smart features,761,12.327879475133646
+Regular Buyer,Improved comfort,760,12.311679896322696
+Regular Buyer,Lower price,758,12.279280738700795
+Regular Buyer,Longer battery life,749,12.133484529402235

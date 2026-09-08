@@ -1,0 +1,35 @@
+customer_segment,improvement_area,request_count,improvement_percentage
+Frequent Buyer,Customer support,877,12.958037825059101
+Frequent Buyer,Durability,877,12.958037825059101
+Frequent Buyer,Design,866,12.795508274231679
+Frequent Buyer,Price,860,12.706855791962173
+Frequent Buyer,Comfort,839,12.396572104018913
+Frequent Buyer,Performance,831,12.27836879432624
+Frequent Buyer,Software,824,12.174940898345152
+Frequent Buyer,Battery life,794,11.731678486997636
+High Value,Battery life,1772,12.90510523632656
+High Value,Performance,1754,12.774015002548978
+High Value,Software,1723,12.548248488820915
+High Value,Design,1722,12.540965698055494
+High Value,Durability,1714,12.482703371932125
+High Value,Customer support,1701,12.388027091981648
+High Value,Price,1701,12.388027091981648
+High Value,Comfort,1644,11.972908018352632
+Inactive,Customer support,1,50.0
+Inactive,Price,1,50.0
+Premium Loyal,Durability,438,13.168971737823213
+Premium Loyal,Design,429,12.898376428141912
+Premium Loyal,Software,428,12.868310282621767
+Premium Loyal,Battery life,418,12.567648827420324
+Premium Loyal,Customer support,412,12.38725195429946
+Premium Loyal,Price,405,12.176788935658449
+Premium Loyal,Performance,404,12.146722790138305
+Premium Loyal,Comfort,392,11.785929043896573
+Regular Buyer,Battery life,829,13.429450834278308
+Regular Buyer,Customer support,806,13.056860521626437
+Regular Buyer,Performance,786,12.73286894540742
+Regular Buyer,Software,779,12.619471893730763
+Regular Buyer,Design,758,12.279280738700795
+Regular Buyer,Durability,750,12.149684108213187
+Regular Buyer,Comfort,747,12.101085371780334
+Regular Buyer,Price,718,11.631297586262757

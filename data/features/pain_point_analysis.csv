@@ -1,0 +1,8 @@
+complaint_category,complaint_count,complaint_percentage,high_priority_count,volume_score,severity_score,pain_point_score,pain_point_level
+battery,12565,25.13,4334,100.0,100.0,100.0,Critical Pain Point
+quality,9988,19.98,3509,79.49,80.96,80.08,Critical Pain Point
+performance,7546,15.09,2633,60.06,60.75,60.33,High Pain Point
+comfort,5026,10.05,1771,40.0,40.86,40.35,Moderate Pain Point
+software,5000,10.0,1762,39.79,40.66,40.14,Moderate Pain Point
+price,4984,9.97,1756,39.67,40.52,40.01,Moderate Pain Point
+delivery,4891,9.78,1713,38.93,39.52,39.17,Moderate Pain Point

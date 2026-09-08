@@ -1,0 +1,501 @@
+product_id,product_name,category,main_problem,main_problem_count
+P0001,Smart Watch 1,Watches,battery,28
+P0002,Smart Watch 2,Watches,battery,29
+P0003,Smart Light 3,Home Appliances,quality,30
+P0004,Headphones 4,Audio,battery,19
+P0005,Air Purifier 5,Home Appliances,battery,30
+P0006,Headphones 6,Audio,quality,24
+P0007,Tablet 7,Mobile,performance,20
+P0008,Headphones 8,Audio,battery,25
+P0009,Wireless Earbuds 9,Audio,battery,25
+P0010,Smart Light 10,Home Appliances,battery,25
+P0011,Smartphone 11,Mobile,quality,17
+P0012,Fitness Band 12,Wearables,battery,26
+P0013,Smart Ring 13,Wearables,quality,24
+P0014,Fitness Band 14,Wearables,quality,22
+P0015,Smart Ring 15,Wearables,battery,19
+P0016,Air Purifier 16,Home Appliances,battery,24
+P0017,Bluetooth Speaker 17,Audio,battery,31
+P0018,Smart Ring 18,Wearables,battery,26
+P0019,Fitness Watch 19,Watches,battery,33
+P0020,Air Purifier 20,Home Appliances,battery,34
+P0021,Wireless Earbuds 21,Audio,battery,22
+P0022,Analog Watch 22,Watches,battery,27
+P0023,Air Purifier 23,Home Appliances,battery,24
+P0024,Fitness Band 24,Wearables,battery,23
+P0025,Smart Watch 25,Watches,battery,24
+P0026,Headphones 26,Audio,battery,25
+P0027,Smart Ring 27,Wearables,quality,22
+P0028,Fitness Band 28,Wearables,battery,26
+P0029,Smart Light 29,Home Appliances,battery,30
+P0030,Tablet 30,Mobile,battery,25
+P0031,Fitness Band 31,Wearables,battery,23
+P0032,Smartphone 32,Mobile,battery,31
+P0033,Smart Watch 33,Watches,battery,27
+P0034,Bluetooth Speaker 34,Audio,battery,23
+P0035,Smartphone 35,Mobile,quality,25
+P0036,Smart Watch 36,Watches,battery,27
+P0037,Analog Watch 37,Watches,quality,29
+P0038,Tablet 38,Mobile,battery,29
+P0039,Bluetooth Speaker 39,Audio,battery,29
+P0040,Analog Watch 40,Watches,battery,29
+P0041,Headphones 41,Audio,battery,26
+P0042,Smart Watch 42,Watches,battery,29
+P0043,Tablet 43,Mobile,battery,27
+P0044,Fitness Band 44,Wearables,quality,29
+P0045,Smart Ring 45,Wearables,battery,29
+P0046,Bluetooth Speaker 46,Audio,battery,29
+P0047,Smart Fan 47,Home Appliances,battery,27
+P0048,Smart Watch 48,Watches,battery,35
+P0049,Smart Fan 49,Home Appliances,battery,27
+P0050,Analog Watch 50,Watches,battery,24
+P0051,Air Purifier 51,Home Appliances,battery,36
+P0052,Bluetooth Speaker 52,Audio,battery,20
+P0053,Tablet 53,Mobile,battery,24
+P0054,Wireless Earbuds 54,Audio,quality,28
+P0055,Smart Watch 55,Watches,battery,26
+P0056,Analog Watch 56,Watches,quality,30
+P0057,Headphones 57,Audio,quality,26
+P0058,Bluetooth Speaker 58,Audio,battery,27
+P0059,Air Purifier 59,Home Appliances,quality,27
+P0060,Smartphone 60,Mobile,battery,19
+P0061,Wireless Earbuds 61,Audio,battery,26
+P0062,Tablet 62,Mobile,battery,18
+P0063,Fitness Band 63,Wearables,battery,30
+P0064,Fitness Band 64,Wearables,battery,21
+P0065,Smart Ring 65,Wearables,battery,29
+P0066,Smart Fan 66,Home Appliances,battery,27
+P0067,Smart Fan 67,Home Appliances,quality,29
+P0068,Headphones 68,Audio,battery,23
+P0069,Headphones 69,Audio,battery,23
+P0070,Smart Watch 70,Watches,battery,25
+P0071,Smart Watch 71,Watches,quality,25
+P0072,Smart Light 72,Home Appliances,battery,27
+P0073,Smartphone 73,Mobile,battery,26
+P0074,Smart Watch 74,Watches,battery,32
+P0075,Fitness Watch 75,Watches,battery,28
+P0076,Smart Fan 76,Home Appliances,battery,28
+P0077,Fitness Watch 77,Watches,performance,25
+P0078,Smart Ring 78,Wearables,quality,28
+P0079,Smartphone 79,Mobile,battery,28
+P0080,Wireless Earbuds 80,Audio,battery,29
+P0081,Headphones 81,Audio,battery,24
+P0082,Fitness Watch 82,Watches,battery,24
+P0083,Air Purifier 83,Home Appliances,battery,29
+P0084,Fitness Band 84,Wearables,battery,35
+P0085,Fitness Band 85,Wearables,performance,28
+P0086,Analog Watch 86,Watches,battery,23
+P0087,Tablet 87,Mobile,battery,28
+P0088,Air Purifier 88,Home Appliances,battery,28
+P0089,Fitness Band 89,Wearables,battery,34
+P0090,Smartphone 90,Mobile,battery,35
+P0091,Tablet 91,Mobile,quality,30
+P0092,Fitness Band 92,Wearables,battery,31
+P0093,Tablet 93,Mobile,battery,31
+P0094,Smart Ring 94,Wearables,performance,27
+P0095,Analog Watch 95,Watches,battery,31
+P0096,Smart Watch 96,Watches,battery,24
+P0097,Fitness Watch 97,Watches,battery,37
+P0098,Analog Watch 98,Watches,quality,24
+P0099,Bluetooth Speaker 99,Audio,quality,30
+P0100,Bluetooth Speaker 100,Audio,battery,24
+P0101,Bluetooth Speaker 101,Audio,battery,26
+P0102,Smart Light 102,Home Appliances,battery,25
+P0103,Fitness Band 103,Wearables,quality,23
+P0104,Smartphone 104,Mobile,battery,24
+P0105,Fitness Watch 105,Watches,quality,29
+P0106,Bluetooth Speaker 106,Audio,battery,28
+P0107,Analog Watch 107,Watches,quality,31
+P0108,Wireless Earbuds 108,Audio,battery,30
+P0109,Smart Fan 109,Home Appliances,battery,31
+P0110,Smart Ring 110,Wearables,battery,30
+P0111,Smartphone 111,Mobile,quality,37
+P0112,Smart Light 112,Home Appliances,battery,31
+P0113,Smart Watch 113,Watches,quality,23
+P0114,Smart Light 114,Home Appliances,battery,28
+P0115,Air Purifier 115,Home Appliances,performance,24
+P0116,Smart Fan 116,Home Appliances,battery,23
+P0117,Smartphone 117,Mobile,battery,30
+P0118,Bluetooth Speaker 118,Audio,battery,40
+P0119,Wireless Earbuds 119,Audio,battery,28
+P0120,Smart Light 120,Home Appliances,battery,27
+P0121,Fitness Band 121,Wearables,battery,30
+P0122,Smart Fan 122,Home Appliances,battery,22
+P0123,Smart Watch 123,Watches,battery,28
+P0124,Smart Ring 124,Wearables,battery,32
+P0125,Air Purifier 125,Home Appliances,battery,29
+P0126,Tablet 126,Mobile,battery,27
+P0127,Smartphone 127,Mobile,quality,26
+P0128,Smart Light 128,Home Appliances,battery,21
+P0129,Air Purifier 129,Home Appliances,quality,24
+P0130,Fitness Band 130,Wearables,battery,24
+P0131,Smartphone 131,Mobile,battery,23
+P0132,Fitness Band 132,Wearables,battery,27
+P0133,Wireless Earbuds 133,Audio,quality,26
+P0134,Smartphone 134,Mobile,performance,22
+P0135,Smart Watch 135,Watches,battery,24
+P0136,Tablet 136,Mobile,battery,29
+P0137,Analog Watch 137,Watches,battery,32
+P0138,Smart Fan 138,Home Appliances,battery,30
+P0139,Analog Watch 139,Watches,battery,30
+P0140,Smartphone 140,Mobile,battery,22
+P0141,Wireless Earbuds 141,Audio,quality,26
+P0142,Smart Fan 142,Home Appliances,battery,25
+P0143,Headphones 143,Audio,battery,21
+P0144,Smart Fan 144,Home Appliances,quality,24
+P0145,Fitness Band 145,Wearables,battery,31
+P0146,Air Purifier 146,Home Appliances,performance,23
+P0147,Fitness Band 147,Wearables,quality,28
+P0148,Analog Watch 148,Watches,battery,34
+P0149,Fitness Watch 149,Watches,battery,27
+P0150,Tablet 150,Mobile,battery,32
+P0151,Smart Ring 151,Wearables,battery,27
+P0152,Wireless Earbuds 152,Audio,quality,21
+P0153,Fitness Band 153,Wearables,battery,24
+P0154,Smart Fan 154,Home Appliances,quality,18
+P0155,Tablet 155,Mobile,quality,34
+P0156,Wireless Earbuds 156,Audio,battery,26
+P0157,Smartphone 157,Mobile,battery,23
+P0158,Smartphone 158,Mobile,battery,24
+P0159,Analog Watch 159,Watches,quality,19
+P0160,Smart Fan 160,Home Appliances,battery,26
+P0161,Smartphone 161,Mobile,battery,18
+P0162,Smart Light 162,Home Appliances,battery,26
+P0163,Smart Ring 163,Wearables,quality,21
+P0164,Smart Fan 164,Home Appliances,battery,31
+P0165,Bluetooth Speaker 165,Audio,battery,27
+P0166,Smart Ring 166,Wearables,battery,25
+P0167,Fitness Watch 167,Watches,battery,27
+P0168,Smart Ring 168,Wearables,battery,27
+P0169,Analog Watch 169,Watches,quality,25
+P0170,Tablet 170,Mobile,quality,19
+P0171,Smart Watch 171,Watches,battery,23
+P0172,Air Purifier 172,Home Appliances,battery,27
+P0173,Smartphone 173,Mobile,battery,28
+P0174,Tablet 174,Mobile,battery,28
+P0175,Fitness Band 175,Wearables,battery,23
+P0176,Smart Light 176,Home Appliances,battery,33
+P0177,Wireless Earbuds 177,Audio,battery,23
+P0178,Fitness Watch 178,Watches,battery,17
+P0179,Fitness Band 179,Wearables,battery,30
+P0180,Smart Light 180,Home Appliances,battery,20
+P0181,Smart Light 181,Home Appliances,battery,24
+P0182,Fitness Band 182,Wearables,battery,25
+P0183,Wireless Earbuds 183,Audio,battery,26
+P0184,Smart Ring 184,Wearables,quality,28
+P0185,Smart Ring 185,Wearables,battery,32
+P0186,Smart Ring 186,Wearables,battery,23
+P0187,Bluetooth Speaker 187,Audio,battery,32
+P0188,Headphones 188,Audio,battery,31
+P0189,Smartphone 189,Mobile,battery,19
+P0190,Smart Light 190,Home Appliances,quality,26
+P0191,Headphones 191,Audio,battery,30
+P0192,Bluetooth Speaker 192,Audio,battery,29
+P0193,Fitness Band 193,Wearables,battery,21
+P0194,Air Purifier 194,Home Appliances,battery,33
+P0195,Fitness Band 195,Wearables,performance,20
+P0196,Smart Ring 196,Wearables,battery,24
+P0197,Fitness Band 197,Wearables,quality,24
+P0198,Smart Ring 198,Wearables,battery,36
+P0199,Smart Ring 199,Wearables,battery,31
+P0200,Bluetooth Speaker 200,Audio,quality,32
+P0201,Fitness Band 201,Wearables,battery,31
+P0202,Fitness Watch 202,Watches,battery,27
+P0203,Smart Light 203,Home Appliances,battery,25
+P0204,Wireless Earbuds 204,Audio,quality,18
+P0205,Tablet 205,Mobile,battery,21
+P0206,Smartphone 206,Mobile,battery,26
+P0207,Wireless Earbuds 207,Audio,battery,21
+P0208,Fitness Watch 208,Watches,battery,27
+P0209,Wireless Earbuds 209,Audio,quality,21
+P0210,Tablet 210,Mobile,battery,33
+P0211,Air Purifier 211,Home Appliances,battery,34
+P0212,Smartphone 212,Mobile,quality,21
+P0213,Wireless Earbuds 213,Audio,quality,27
+P0214,Fitness Band 214,Wearables,battery,31
+P0215,Smart Light 215,Home Appliances,battery,23
+P0216,Headphones 216,Audio,battery,25
+P0217,Fitness Watch 217,Watches,battery,32
+P0218,Tablet 218,Mobile,battery,28
+P0219,Smart Ring 219,Wearables,battery,36
+P0220,Smart Ring 220,Wearables,battery,21
+P0221,Tablet 221,Mobile,battery,27
+P0222,Air Purifier 222,Home Appliances,quality,27
+P0223,Smartphone 223,Mobile,quality,22
+P0224,Air Purifier 224,Home Appliances,performance,19
+P0225,Smart Fan 225,Home Appliances,quality,34
+P0226,Bluetooth Speaker 226,Audio,quality,26
+P0227,Smart Ring 227,Wearables,battery,24
+P0228,Fitness Watch 228,Watches,battery,26
+P0229,Smart Light 229,Home Appliances,delivery,19
+P0230,Smart Watch 230,Watches,quality,22
+P0231,Smartphone 231,Mobile,battery,21
+P0232,Smart Ring 232,Wearables,battery,17
+P0233,Air Purifier 233,Home Appliances,battery,21
+P0234,Air Purifier 234,Home Appliances,battery,27
+P0235,Smartphone 235,Mobile,battery,31
+P0236,Fitness Band 236,Wearables,battery,21
+P0237,Tablet 237,Mobile,battery,26
+P0238,Air Purifier 238,Home Appliances,battery,18
+P0239,Tablet 239,Mobile,battery,40
+P0240,Tablet 240,Mobile,battery,26
+P0241,Wireless Earbuds 241,Audio,battery,27
+P0242,Smart Light 242,Home Appliances,quality,27
+P0243,Bluetooth Speaker 243,Audio,quality,21
+P0244,Air Purifier 244,Home Appliances,battery,30
+P0245,Smart Ring 245,Wearables,battery,20
+P0246,Fitness Watch 246,Watches,battery,23
+P0247,Bluetooth Speaker 247,Audio,battery,19
+P0248,Headphones 248,Audio,battery,26
+P0249,Smart Light 249,Home Appliances,quality,19
+P0250,Fitness Band 250,Wearables,battery,31
+P0251,Fitness Band 251,Wearables,battery,18
+P0252,Smartphone 252,Mobile,battery,27
+P0253,Bluetooth Speaker 253,Audio,battery,25
+P0254,Tablet 254,Mobile,battery,23
+P0255,Bluetooth Speaker 255,Audio,battery,25
+P0256,Smartphone 256,Mobile,battery,23
+P0257,Analog Watch 257,Watches,battery,27
+P0258,Smart Watch 258,Watches,battery,28
+P0259,Smart Fan 259,Home Appliances,battery,29
+P0260,Headphones 260,Audio,battery,27
+P0261,Analog Watch 261,Watches,battery,25
+P0262,Headphones 262,Audio,battery,23
+P0263,Smart Light 263,Home Appliances,battery,34
+P0264,Tablet 264,Mobile,battery,23
+P0265,Smart Fan 265,Home Appliances,battery,25
+P0266,Headphones 266,Audio,battery,30
+P0267,Smartphone 267,Mobile,battery,25
+P0268,Fitness Band 268,Wearables,battery,24
+P0269,Smartphone 269,Mobile,battery,31
+P0270,Smart Watch 270,Watches,battery,26
+P0271,Tablet 271,Mobile,battery,24
+P0272,Tablet 272,Mobile,battery,30
+P0273,Smart Ring 273,Wearables,battery,35
+P0274,Smart Watch 274,Watches,battery,23
+P0275,Tablet 275,Mobile,battery,36
+P0276,Fitness Watch 276,Watches,battery,38
+P0277,Smartphone 277,Mobile,battery,33
+P0278,Tablet 278,Mobile,battery,22
+P0279,Tablet 279,Mobile,battery,23
+P0280,Smartphone 280,Mobile,quality,22
+P0281,Smart Ring 281,Wearables,battery,25
+P0282,Smartphone 282,Mobile,quality,21
+P0283,Headphones 283,Audio,battery,29
+P0284,Wireless Earbuds 284,Audio,battery,26
+P0285,Smart Light 285,Home Appliances,quality,23
+P0286,Fitness Band 286,Wearables,battery,25
+P0287,Analog Watch 287,Watches,quality,24
+P0288,Smart Ring 288,Wearables,battery,26
+P0289,Smart Ring 289,Wearables,battery,28
+P0290,Fitness Band 290,Wearables,battery,19
+P0291,Wireless Earbuds 291,Audio,quality,26
+P0292,Smart Fan 292,Home Appliances,battery,26
+P0293,Smart Fan 293,Home Appliances,battery,33
+P0294,Smart Ring 294,Wearables,battery,31
+P0295,Smart Ring 295,Wearables,battery,29
+P0296,Headphones 296,Audio,battery,31
+P0297,Smartphone 297,Mobile,quality,29
+P0298,Smartphone 298,Mobile,battery,28
+P0299,Smart Ring 299,Wearables,battery,28
+P0300,Smart Watch 300,Watches,battery,28
+P0301,Bluetooth Speaker 301,Audio,battery,23
+P0302,Bluetooth Speaker 302,Audio,battery,29
+P0303,Fitness Watch 303,Watches,battery,24
+P0304,Bluetooth Speaker 304,Audio,battery,29
+P0305,Fitness Band 305,Wearables,battery,33
+P0306,Fitness Band 306,Wearables,quality,28
+P0307,Smartphone 307,Mobile,quality,23
+P0308,Smart Watch 308,Watches,battery,36
+P0309,Fitness Band 309,Wearables,quality,22
+P0310,Fitness Band 310,Wearables,quality,24
+P0311,Smart Light 311,Home Appliances,quality,24
+P0312,Smart Watch 312,Watches,battery,28
+P0313,Smart Watch 313,Watches,battery,29
+P0314,Smart Light 314,Home Appliances,battery,25
+P0315,Bluetooth Speaker 315,Audio,battery,31
+P0316,Wireless Earbuds 316,Audio,battery,22
+P0317,Smart Light 317,Home Appliances,battery,28
+P0318,Bluetooth Speaker 318,Audio,battery,31
+P0319,Smart Ring 319,Wearables,battery,29
+P0320,Smart Ring 320,Wearables,battery,27
+P0321,Smart Ring 321,Wearables,battery,24
+P0322,Smart Watch 322,Watches,battery,25
+P0323,Smart Watch 323,Watches,battery,30
+P0324,Air Purifier 324,Home Appliances,battery,24
+P0325,Tablet 325,Mobile,battery,25
+P0326,Smart Watch 326,Watches,battery,34
+P0327,Smart Fan 327,Home Appliances,quality,20
+P0328,Smartphone 328,Mobile,battery,27
+P0329,Wireless Earbuds 329,Audio,battery,27
+P0330,Smart Watch 330,Watches,battery,29
+P0331,Smart Ring 331,Wearables,battery,18
+P0332,Smart Watch 332,Watches,battery,28
+P0333,Smart Light 333,Home Appliances,quality,28
+P0334,Fitness Band 334,Wearables,performance,23
+P0335,Headphones 335,Audio,battery,22
+P0336,Tablet 336,Mobile,battery,22
+P0337,Analog Watch 337,Watches,battery,30
+P0338,Wireless Earbuds 338,Audio,battery,31
+P0339,Wireless Earbuds 339,Audio,battery,21
+P0340,Fitness Band 340,Wearables,battery,23
+P0341,Smart Watch 341,Watches,battery,39
+P0342,Smartphone 342,Mobile,battery,23
+P0343,Tablet 343,Mobile,battery,32
+P0344,Smartphone 344,Mobile,battery,23
+P0345,Tablet 345,Mobile,battery,22
+P0346,Smart Ring 346,Wearables,quality,22
+P0347,Smartphone 347,Mobile,battery,26
+P0348,Analog Watch 348,Watches,battery,35
+P0349,Smart Fan 349,Home Appliances,battery,24
+P0350,Analog Watch 350,Watches,quality,29
+P0351,Tablet 351,Mobile,battery,25
+P0352,Smart Ring 352,Wearables,battery,21
+P0353,Analog Watch 353,Watches,battery,27
+P0354,Smartphone 354,Mobile,battery,23
+P0355,Analog Watch 355,Watches,battery,20
+P0356,Air Purifier 356,Home Appliances,quality,23
+P0357,Tablet 357,Mobile,battery,22
+P0358,Bluetooth Speaker 358,Audio,battery,26
+P0359,Smart Light 359,Home Appliances,battery,23
+P0360,Analog Watch 360,Watches,battery,19
+P0361,Air Purifier 361,Home Appliances,battery,22
+P0362,Bluetooth Speaker 362,Audio,battery,16
+P0363,Tablet 363,Mobile,battery,35
+P0364,Bluetooth Speaker 364,Audio,quality,20
+P0365,Smart Ring 365,Wearables,battery,29
+P0366,Air Purifier 366,Home Appliances,battery,25
+P0367,Smart Fan 367,Home Appliances,battery,24
+P0368,Headphones 368,Audio,battery,24
+P0369,Air Purifier 369,Home Appliances,battery,21
+P0370,Tablet 370,Mobile,quality,23
+P0371,Wireless Earbuds 371,Audio,performance,22
+P0372,Smart Watch 372,Watches,battery,33
+P0373,Smartphone 373,Mobile,battery,29
+P0374,Headphones 374,Audio,quality,27
+P0375,Headphones 375,Audio,battery,28
+P0376,Smart Fan 376,Home Appliances,battery,25
+P0377,Smart Ring 377,Wearables,battery,23
+P0378,Tablet 378,Mobile,performance,22
+P0379,Bluetooth Speaker 379,Audio,quality,23
+P0380,Fitness Band 380,Wearables,battery,20
+P0381,Bluetooth Speaker 381,Audio,performance,20
+P0382,Smart Watch 382,Watches,battery,26
+P0383,Smart Ring 383,Wearables,battery,28
+P0384,Bluetooth Speaker 384,Audio,battery,21
+P0385,Tablet 385,Mobile,battery,29
+P0386,Smart Fan 386,Home Appliances,battery,21
+P0387,Fitness Band 387,Wearables,battery,31
+P0388,Smart Fan 388,Home Appliances,battery,20
+P0389,Fitness Watch 389,Watches,quality,24
+P0390,Smart Light 390,Home Appliances,battery,31
+P0391,Smart Light 391,Home Appliances,battery,28
+P0392,Wireless Earbuds 392,Audio,battery,31
+P0393,Analog Watch 393,Watches,quality,26
+P0394,Fitness Watch 394,Watches,battery,30
+P0395,Analog Watch 395,Watches,battery,29
+P0396,Fitness Watch 396,Watches,battery,23
+P0397,Fitness Band 397,Wearables,battery,28
+P0398,Wireless Earbuds 398,Audio,battery,29
+P0399,Analog Watch 399,Watches,quality,20
+P0400,Analog Watch 400,Watches,quality,19
+P0401,Headphones 401,Audio,performance,17
+P0402,Wireless Earbuds 402,Audio,battery,24
+P0403,Smart Watch 403,Watches,quality,19
+P0404,Bluetooth Speaker 404,Audio,battery,19
+P0405,Air Purifier 405,Home Appliances,quality,25
+P0406,Fitness Band 406,Wearables,quality,28
+P0407,Fitness Band 407,Wearables,battery,24
+P0408,Smartphone 408,Mobile,battery,28
+P0409,Analog Watch 409,Watches,battery,27
+P0410,Analog Watch 410,Watches,battery,20
+P0411,Smart Fan 411,Home Appliances,battery,38
+P0412,Air Purifier 412,Home Appliances,battery,30
+P0413,Smart Watch 413,Watches,battery,24
+P0414,Wireless Earbuds 414,Audio,performance,23
+P0415,Fitness Band 415,Wearables,battery,25
+P0416,Smart Ring 416,Wearables,battery,22
+P0417,Smart Light 417,Home Appliances,battery,24
+P0418,Smart Fan 418,Home Appliances,battery,22
+P0419,Fitness Band 419,Wearables,battery,33
+P0420,Smart Ring 420,Wearables,quality,25
+P0421,Air Purifier 421,Home Appliances,battery,23
+P0422,Tablet 422,Mobile,battery,24
+P0423,Air Purifier 423,Home Appliances,battery,16
+P0424,Smart Ring 424,Wearables,battery,27
+P0425,Fitness Watch 425,Watches,quality,18
+P0426,Headphones 426,Audio,battery,31
+P0427,Analog Watch 427,Watches,battery,25
+P0428,Wireless Earbuds 428,Audio,quality,25
+P0429,Smart Ring 429,Wearables,battery,25
+P0430,Smart Light 430,Home Appliances,battery,26
+P0431,Bluetooth Speaker 431,Audio,battery,20
+P0432,Air Purifier 432,Home Appliances,quality,21
+P0433,Smart Fan 433,Home Appliances,battery,26
+P0434,Analog Watch 434,Watches,quality,23
+P0435,Bluetooth Speaker 435,Audio,battery,25
+P0436,Wireless Earbuds 436,Audio,quality,23
+P0437,Tablet 437,Mobile,quality,26
+P0438,Fitness Band 438,Wearables,quality,19
+P0439,Smartphone 439,Mobile,battery,28
+P0440,Fitness Band 440,Wearables,battery,24
+P0441,Smartphone 441,Mobile,battery,22
+P0442,Smartphone 442,Mobile,battery,24
+P0443,Wireless Earbuds 443,Audio,battery,19
+P0444,Fitness Band 444,Wearables,battery,17
+P0445,Bluetooth Speaker 445,Audio,battery,28
+P0446,Tablet 446,Mobile,battery,22
+P0447,Smartphone 447,Mobile,battery,21
+P0448,Smart Fan 448,Home Appliances,battery,24
+P0449,Bluetooth Speaker 449,Audio,quality,20
+P0450,Fitness Band 450,Wearables,battery,24
+P0451,Bluetooth Speaker 451,Audio,battery,29
+P0452,Bluetooth Speaker 452,Audio,battery,25
+P0453,Smartphone 453,Mobile,quality,28
+P0454,Smart Fan 454,Home Appliances,battery,21
+P0455,Fitness Band 455,Wearables,battery,29
+P0456,Bluetooth Speaker 456,Audio,battery,23
+P0457,Air Purifier 457,Home Appliances,quality,26
+P0458,Headphones 458,Audio,battery,25
+P0459,Smart Watch 459,Watches,battery,28
+P0460,Headphones 460,Audio,battery,25
+P0461,Headphones 461,Audio,battery,26
+P0462,Smart Ring 462,Wearables,battery,24
+P0463,Air Purifier 463,Home Appliances,battery,26
+P0464,Smart Light 464,Home Appliances,battery,20
+P0465,Fitness Band 465,Wearables,quality,24
+P0466,Smart Fan 466,Home Appliances,battery,29
+P0467,Air Purifier 467,Home Appliances,battery,19
+P0468,Fitness Band 468,Wearables,battery,34
+P0469,Smart Ring 469,Wearables,quality,22
+P0470,Smart Light 470,Home Appliances,battery,29
+P0471,Bluetooth Speaker 471,Audio,battery,25
+P0472,Smartphone 472,Mobile,quality,19
+P0473,Analog Watch 473,Watches,battery,38
+P0474,Bluetooth Speaker 474,Audio,performance,24
+P0475,Fitness Watch 475,Watches,battery,22
+P0476,Wireless Earbuds 476,Audio,battery,23
+P0477,Fitness Watch 477,Watches,battery,37
+P0478,Smart Fan 478,Home Appliances,battery,22
+P0479,Fitness Watch 479,Watches,quality,29
+P0480,Headphones 480,Audio,battery,26
+P0481,Bluetooth Speaker 481,Audio,battery,34
+P0482,Smartphone 482,Mobile,battery,20
+P0483,Smartphone 483,Mobile,battery,23
+P0484,Bluetooth Speaker 484,Audio,battery,35
+P0485,Smart Watch 485,Watches,quality,26
+P0486,Tablet 486,Mobile,battery,17
+P0487,Air Purifier 487,Home Appliances,battery,19
+P0488,Smart Light 488,Home Appliances,battery,26
+P0489,Headphones 489,Audio,battery,20
+P0490,Smart Light 490,Home Appliances,battery,26
+P0491,Tablet 491,Mobile,quality,24
+P0492,Smart Ring 492,Wearables,battery,33
+P0493,Air Purifier 493,Home Appliances,quality,20
+P0494,Fitness Watch 494,Watches,quality,17
+P0495,Tablet 495,Mobile,battery,25
+P0496,Fitness Band 496,Wearables,battery,34
+P0497,Smart Ring 497,Wearables,battery,27
+P0498,Tablet 498,Mobile,quality,27
+P0499,Tablet 499,Mobile,battery,30
+P0500,Wireless Earbuds 500,Audio,battery,28

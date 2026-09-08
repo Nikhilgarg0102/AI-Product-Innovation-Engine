@@ -1,0 +1,6 @@
+category,competitor_count,average_price,average_feature_count,average_rating,average_market_share,average_trend_score,feature_coverage_score,market_trend_score,competition_score,feature_gap_score,market_gap_score,market_gap_level
+Watches,3724,27776.49,7.45,4.01,13.71,59.11,98.64,98.1,87.73,1.36,36.86,Moderate Market Gap
+Mobile,3820,27343.36,7.55,3.98,13.42,60.13,100.0,99.79,89.99,0.0,36.43,Moderate Market Gap
+Home Appliances,4047,28706.47,7.47,4.0,13.63,60.25,98.93,100.0,95.34,1.07,36.23,Moderate Market Gap
+Wearables,4164,26013.83,7.54,3.99,13.53,60.17,99.77,99.87,98.09,0.23,35.35,Moderate Market Gap
+Audio,4245,28920.98,7.52,3.99,13.64,60.18,99.53,99.88,100.0,0.47,35.19,Moderate Market Gap
